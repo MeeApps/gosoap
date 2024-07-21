@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/OmerBerkcanMee/xml"
+	"github.com/MeeApps/xml"
 
 	"github.com/google/uuid"
 )

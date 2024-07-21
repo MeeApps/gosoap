@@ -1,5 +1,5 @@
-github.com/OmerBerkcanMee/xml v1.1.1 h1:kSLE+02dKM8O27gdHvP8SYe/V35Cram38zGMznu69GQ=
-github.com/OmerBerkcanMee/xml v1.1.1/go.mod h1:Ei1bJCroozXUc5LhDgCzGaU3XjDKMiuZDMCZnbNkcoA=
+github.com/MeeApps/xml v1.1.3 h1:liEubDzpj5MZZv+iqZcPH90iPZQUfZAQyE5TIaUCpMk=
+github.com/MeeApps/xml v1.1.3/go.mod h1:BbFMF+DD65jNNTuesbS0VrLAGXj3uwxFpvk0T6Ot8S8=
 github.com/beevik/etree v1.4.0 h1:oz1UedHRepuY3p4N5OjE0nK1WLCqtzHf25bxplKOHLs=
 github.com/beevik/etree v1.4.0/go.mod h1:cyWiXwGoasx60gHvtnEh5x8+uIjUVnjWqBvEnhnqKDA=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

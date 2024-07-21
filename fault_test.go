@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/OmerBerkcanMee/xml"
+	"github.com/MeeApps/xml"
 )
 
 var faultName = xml.Name{

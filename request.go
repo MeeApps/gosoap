@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/OmerBerkcanMee/xml"
+	"github.com/MeeApps/xml"
 )
 
 // Request represents a single request to a SOAP service.

@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/OmerBerkcanMee/xml"
+	"github.com/MeeApps/xml"
 
 	"github.com/stretchr/testify/assert"
 )

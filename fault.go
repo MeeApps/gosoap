@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/OmerBerkcanMee/xml"
+	"github.com/MeeApps/xml"
 )
 
 var (

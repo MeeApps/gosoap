@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/OmerBerkcanMee/xml"
+	"github.com/MeeApps/xml"
 )
 
 const xsdNS = "http://www.w3.org/2001/XMLSchema"
