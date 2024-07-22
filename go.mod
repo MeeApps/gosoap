@@ -1,9 +1,11 @@
 module github.com/MeeApps/gosoap
 
-go 1.22.4
+go 1.21.1
+
+toolchain go1.22.4
 
 require (
-	github.com/MeeApps/xml v1.1.3
+	github.com/MeeApps/xml v1.1.5
 	github.com/beevik/etree v1.4.0
 	github.com/google/uuid v1.6.0
 	github.com/stretchr/testify v1.9.0
